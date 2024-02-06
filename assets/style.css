@@ -1,3 +1,25 @@
-.hero {
-color: red;
+* {
+     box-sizing: border-box;
+     margin: 0px;
+     padding: 0px;
+     
 }
+
+#main {
+    display: flex;
+    flex-direction: column;
+}
+
+.navigation li {
+ font-size: 15px;
+ display: inline;
+ 
+}
+
+.director {
+    height: 50%;
+    width: 100%;
+    align-items: center;
+}
+
+
