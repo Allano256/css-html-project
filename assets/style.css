@@ -22,4 +22,35 @@
     align-items: center;
 }
 
+#media {
+    text-align: center;
+    display: flex;
+    padding: 20px 0;
+   justify-content: space-evenly;
+   list-style-type: none;
+   
+}
+
+#media i {
+    font-size: 180%;
+    padding: 5%;
+    color: black;
+}
+
+.img  {
+    background: url("/assets/images/pexels-edmond-dantès-4342352.jpg") no-repeat center/cover;
+    height: 600px;
+    width: 100%;
+    position: relative;
+    
+}
+.overlay {
+   background-color: rgb(199);
+   font-size: 100%;
+    
+}
+
+@media screen and (min-width: 768px) {
+
+}
 
