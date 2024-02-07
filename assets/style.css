@@ -14,29 +14,40 @@ body {
     font-family: 'roboto' , sans-serif;
 }
 
-#main 
+header 
 {
-    display: flex;
-    align-items: center;
-  
+   
+   
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
    
     
 }
 
-.navigation {
-    display: flex;
-   
-} 
+main {
+    flex: 1 0 auto;
+
+}
+
+
 .navigation li {
     list-style-type: none;
 }
 
 .navigation a {
     text-decoration: none;
-   align-content: space-between;
+    color: dimgray;
+    font-family: 'roboto', sans-serif;
+    letter-spacing: 2px;
+  
 }
 
 .logo {
     width: 150px;
     height: 100px;
+   
+   
 }
