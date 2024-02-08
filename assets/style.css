@@ -32,9 +32,15 @@ header
 
 main {
     flex: 1 0 auto;
-    margin-top: 47px;
-   
+    margin-top: 50px;
 
+}
+
+#main {
+    height:600px ;
+    width: 100%;
+    background: url("../assets/images/pexels-edmond-dantès-4342352.jpg") no-repeat center cover/center;
+  
 }
 
 
@@ -75,6 +81,10 @@ nav {
 }
 .nav-toggle-label{
     font-size: 2rem;
+    color: grey;
+    
+    
+   
     
 }
 
@@ -87,6 +97,20 @@ nav {
    
 }
 
+#media {
+    text-align: center;
+    padding:  20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+
+}
+
+#media i {
+    font-size: 170% ;
+    padding: 5%;
+    color: grey;
+}
 
 @media screen and (min-width: 768px)  {
          nav {
@@ -94,19 +118,48 @@ nav {
             position: relative;
             width: fit-content;
             padding-right: 1rem ;
+            bottom: 150px;
          } 
+      
 
         .navigation  {
             display: flex;
             
         } 
     .navigation > li {
-        padding-left: 1rem ;
+        padding: 6px;
+       /* font-size: 20px; */
+       
+        
     }
 
     .nav-toggle-label {
         display: none;
     }
+    .logo {
+       
+        width: 125%;
+        height: 150%;
+       
+    
+       
+      
+    }
+    header {
+        padding: 0%;
+    }
+
+    main {
+        margin-top: 79px;
+    }
 
 
+
+
+}
+
+@media screen and (min-width: 992px) {
+    .navigation  a:hover {
+        border-bottom: 2px solid dimgray;
+    }
 }
