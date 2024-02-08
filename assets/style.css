@@ -36,10 +36,17 @@ main {
 
 }
 
+h2, p {
+    font-family: 'roboto' , sans-serif;
+    padding: 0 1rem;
+}
+
 #main {
-    height:600px ;
+    height:400px ;
     width: 100%;
-    background: url("../assets/images/pexels-edmond-dantès-4342352.jpg") no-repeat center cover/center;
+    border-radius: 15px;
+  
+   
   
 }
 
@@ -99,7 +106,7 @@ nav {
 
 #media {
     text-align: center;
-    padding:  20px 0;
+    padding:  15px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
