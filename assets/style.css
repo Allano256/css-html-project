@@ -19,21 +19,20 @@ header
    
   
     padding: 0 1rem;
-    position: fixed;
+    /* position: fixed; */
     z-index: 99;
     width: 100%;
-   
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
    /* box-shadow: 0 2px 2px grey; */
     
 }
 
 main {
     flex: 1 0 auto;
-    margin-top: 50px;
-
+    margin-bottom: 50px;
+    background-color: #111827;
 }
 
 h2, p {
@@ -41,11 +40,12 @@ h2, p {
     padding: 0 1rem;
 }
 
-#main {
+#main img {
     height:400px ;
     width: 100%;
     border-radius: 15px;
-  
+    object-fit: contain;
+   
    
   
 }
@@ -89,10 +89,7 @@ nav {
 .nav-toggle-label{
     font-size: 2rem;
     color: grey;
-    
-    
-   
-    
+ 
 }
 
 
@@ -117,6 +114,11 @@ nav {
     font-size: 170% ;
     padding: 5%;
     color: grey;
+}
+
+#services h2, h3, p {
+        color: #ffff;
+        font-family: 'roboto' , sans-serif;
 }
 
 @media screen and (min-width: 768px)  {
