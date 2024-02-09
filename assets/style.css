@@ -12,44 +12,39 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'roboto' , sans-serif;
+    scroll-behavior: smooth;
 }
 
 header 
 {
    
-  
+   
     padding: 0 1rem;
-    /* position: fixed; */
+    position: relative;
     z-index: 99;
     width: 100%;
+    /* box-shadow: 0 2px 3px #3a3a3a; */
     display: flex;
     justify-content: space-between;
+    align-items: baseline; 
     align-items: center;
-   /* box-shadow: 0 2px 2px grey; */
+   
     
 }
 
 main {
     flex: 1 0 auto;
-    margin-bottom: 50px;
-    background-color: #111827;
+    
+
 }
 
-h2, p {
-    font-family: 'roboto' , sans-serif;
-    padding: 0 1rem;
-}
 
 #main img {
-    height:400px ;
     width: 100%;
-    border-radius: 15px;
+    height: 400px;
     object-fit: contain;
    
-   
-  
 }
-
 
 
 .navigation li {
@@ -65,6 +60,14 @@ h2, p {
     font-size: 110%;
   
 }
+
+h2,  p  {
+    color: dimgray;
+   
+
+}
+
+
 .active {
     border-bottom: 2px solid dimgray;
 }
@@ -74,8 +77,10 @@ nav {
     width: 100%;
     left: 0;
     padding:  0 1rem;
+    /* box-shadow: 0 2px 2px dimgray; */
     display: none;
     top: 100%;
+    background: white;
 
 }
 
@@ -88,8 +93,7 @@ nav {
 }
 .nav-toggle-label{
     font-size: 2rem;
-    color: grey;
- 
+    color: dimgray;
 }
 
 
@@ -101,74 +105,42 @@ nav {
    
 }
 
-#media {
-    text-align: center;
-    padding:  15px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
+    
+    .media {
+        text-align: center;
+        padding: 20px 0;
+        display: flex;
+        justify-content: space-evenly;
+        list-style-type: none;
+    }
 
-}
+   .media i {
+        font-size: 160%;
+        padding: 5%;
+        color: grey;
+    }
 
-#media i {
-    font-size: 170% ;
-    padding: 5%;
-    color: grey;
-}
-
-#services h2, h3, p {
-        color: #ffff;
-        font-family: 'roboto' , sans-serif;
-}
-
-@media screen and (min-width: 768px)  {
-         nav {
+   /* media query for devices larger (768px and above) */
+    @media screen and (min-width:768px) {
+        nav {
             display: block;
             position: relative;
             width: fit-content;
-            padding-right: 1rem ;
-            bottom: 150px;
-         } 
-      
+            padding: 1rem;
+        }
 
-        .navigation  {
+        .navigation {
             display: flex;
-            
-        } 
-    .navigation > li {
-        padding: 6px;
-       /* font-size: 20px; */
-       
-        
-    }
 
-    .nav-toggle-label {
-        display: none;
+        }
+       
+            .navigation li {
+                padding-left: 1.5rem ;
+            }
+
+                .nav-toggle-label {
+                    display: none;
+                }
     }
-    .logo {
-       
-        width: 125%;
-        height: 150%;
-       
+   
     
-       
-      
-    }
-    header {
-        padding: 0%;
-    }
-
-    main {
-        margin-top: 79px;
-    }
-
-
-
-
-}
-
-@media screen and (min-width: 992px) {
-    .navigation  a:hover {
-        border-bottom: 2px solid dimgray;
-    }
-}
