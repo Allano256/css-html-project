@@ -141,6 +141,21 @@ nav {
                 .nav-toggle-label {
                     display: none;
                 }
+
+                .logo {
+                    width: 250px;
+                    height: 230px;
+                    padding-top: 10px;
+   
+                }
+
+                
+    }
+
+    @media screen and (min-width:992px) {
+        .navigation a:hover {
+            border-bottom: 2px solid dimgray;
+        }
     }
    
     
