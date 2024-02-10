@@ -35,9 +35,11 @@ header
 main {
     flex: 1 0 auto;
     
-
 }
 
+#main {
+    display: flex;
+}
 
 #main img {
     width: 100%;
@@ -45,8 +47,20 @@ main {
     object-fit: contain;
    
 }
-
-
+ /* .services > h2, .services > p {
+    display: flex;
+    padding-left: 20px;
+   
+} */
+.container {
+    display: flex;
+    gap: 20px;
+    padding: 0 3rem;
+    
+}
+.major {
+    font-size: 30px;
+}
 .navigation li {
     list-style-type: none;
     margin-bottom: 1em;
@@ -61,10 +75,10 @@ main {
   
 }
 
+
 h2,  p  {
     color: dimgray;
-   
-
+    font-family: 'roboto' , sans-serif;
 }
 
 
