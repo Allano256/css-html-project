@@ -212,7 +212,7 @@ nav {
                     padding-left: 30px; 
                     position: relative;
                     top: 80px;
-                    width: 80%;
+                    width: 50%;
                     }
                     #main {
                         display: flex;
@@ -221,11 +221,14 @@ nav {
                     }
                     #team {
                         display: flex;
-                        flex-direction: column;
+                        flex-direction: row;
+                        
                         gap: 20px;
                         justify-content: space-evenly;
                     
                     }
+                   
+                  
                 
     }
  /* media query for devices larger (992px and above) */
