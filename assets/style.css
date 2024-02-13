@@ -196,6 +196,15 @@ nav {
 
               
         }
+
+        button {
+            padding: 10px ;
+            border: solid #D9D9D6;
+            border-radius: 4px;
+            margin: 5px;
+            width: 200px;
+            align-self: center;
+        }
         .contact {
             color: dimgray;
             font-family: 'roboto' , sans-serif;
