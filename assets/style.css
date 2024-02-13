@@ -31,11 +31,12 @@ header
    
     
 }
-
-main {
-    flex: 1 0 auto;
-    
+header:has(#nav-toggle:checked) {
+        margin-bottom: 200px;
 }
+
+
+
 
 #main {
     display: flex;
@@ -52,17 +53,18 @@ main {
 
 #team {
     display: flex;
+    justify-content: center;
     flex-direction: column;
     gap: 20px;
-   align-items: center;
-   padding: 10px 2rem 10px;
+   align-items: baseline;
+   padding: 10px  10px;
 
 }
 
 .img {
     width: 100%;
-    height: 400px;
-    object-fit: contain;
+    height: 250px;
+    object-fit: cover;
    
 }
 
@@ -78,22 +80,27 @@ main {
 
 .container {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     gap: 15px;
     padding: 0 2rem;
+    flex-wrap: wrap;
     
     
 }
+.container div {
+    max-width: 320px;
+}
 .tin {
-    display: flex;
-    justify-content: center;
+   
+   text-align: center;
     /* padding-bottom: 20px; */
-    padding: 0 2rem 20px;
+    padding: 0 1rem 10px;
 }
 h3 {
     font-size: 30px;
     color: dimgray;
     font-family: 'roboto' , sans-serif;
+    margin-bottom: 20px;
 }
 
 .navigation li {
@@ -114,6 +121,7 @@ h3 {
 h2,  p  {
     color: dimgray;
     font-family: 'roboto' , sans-serif;
+    margin-bottom: 16px;
     
 }
 
@@ -136,7 +144,9 @@ nav {
 
 #nav-toggle:checked~nav {
     display: block;
+
 } 
+
 #nav-toggle {
     display: none;
 
@@ -175,6 +185,8 @@ nav {
         justify-content: center;
         padding: 0 2rem 20px;
         color: dimgray;
+      
+        margin: 1rem auto;
     }
          input, textarea {
                padding: 10px ;
@@ -250,12 +262,17 @@ nav {
                     }
                    
                   
+                  
                 
     }
  /* media query for devices larger (992px and above) */
     @media screen and (min-width:992px) {
         .navigation a:hover {
             border-bottom: 2px solid dimgray;
+        }
+
+        form {
+            max-width: 50%;
         }
     }
    
