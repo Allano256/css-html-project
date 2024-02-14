@@ -28,10 +28,14 @@ Allan Zizinga
 
 
 ## Deployment
-1.Log into your account in github
+1.Log into your account in github.
+
 2.Go to the repository of css-html-project
+
 3.Click on the code button,and copy your preffered clone link.
+
 4.Oppen the terminal in your code editor and change the current working directory to the location you wat to use for the cloned directory.
+
 5.Use git clone into the terminal, paste the link you copied in step 3 and press enter.
 
 ## Feedback
