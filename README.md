@@ -1,8 +1,10 @@
-
-# CSS and HTML project
+ # CSS and HTML project
 
 This is a project covering only HTML and CSS.
 It's created for an agency that represents athletes.
+
+# Target audience
+This website is dedicated to new and experienced athletes that are intrested in having an agency to manage their career. Athletes that are playing at the highest level and want to maintain that level of professionalism for a long time.
 
 
 
@@ -26,13 +28,11 @@ Allan Zizinga
 
 
 ## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
+1.Log into your account in github
+2.Go to the repository of css-html-project
+3.Click on the code button,and copy your preffered clone link.
+4.Oppen the terminal in your code editor and change the current working directory to the location you wat to use for the cloned directory.
+5.Use git clone into the terminal, paste the link you copied in step 3 and press enter.
 
 ## Feedback
 
@@ -43,26 +43,6 @@ If you have any feedback, please reach out to us at allanzizinga@yahoo.com
 I'm a full stack developer currently studying at Code Institute.
 I come from Sweden in the city of Gothenburg.
 
-
-# Hi, I'm Allan! 👋
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on my first project,CSS and HTML.
-
-🧠 I'm currently learning SOFTWARE DEVELOPMENT.
-
-👯‍♀️ I'm looking to collaborate on almost everything available to up ma skills.
-
-🤔 I'm looking for help with projects to practice more on ma skills.
-
-💬 Ask me about anything tech.
-
-📫 How to reach me,vbia email always respond promptly.
-
-
-
-
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
@@ -72,40 +52,27 @@ Well during this project i learned that you must be creative in a way that nothi
 Most of ma challenges,i googled alot but also sought help from a friend  an extra mentor.
 
 
-## Running Tests
+## Running Tests and validation
+ W3C was used to validate the project for any errors.
 
-To run tests, run the following command
+![css-html-project](https://allano256.github.io/css-html-project/assets/images/validation.png)
 
-```bash
-  npm run test
-```
+## Design
+1.Our Project has three sections, the first part showing  the navigation and foreword.
 
+![css-html-project](https://allano256.github.io/css-html-project/assets/images/top.png)
 
-## Run Locally
+2.Our second section has the services offered and our team.
 
-Clone the project
+![css-html-project](https://allano256.github.io/css-html-project/assets/images/middle.png)
 
-```bash
-  git clone https://link-to-project
-```
+3.The third part having the contact form and the social media icons.
 
-Go to the project directory
+![css-html-project](https://allano256.github.io/css-html-project/assets/images/bottom.png)
 
-```bash
-  cd my-project
-```
+## Colors used
 
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
+We maintained a simple white background color and grey for the wordings. (#ffffff and rgb(105, 105, 105))
 
 
 
