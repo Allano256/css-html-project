@@ -1,4 +1,4 @@
- # CSS and HTML project
+ # TOP TALENT AGENCY
 
 This is a project covering only HTML and CSS.
 It's created for an agency that represents athletes.
