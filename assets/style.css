@@ -2,9 +2,7 @@
 * {
      box-sizing: border-box;
      margin: 0px;
-     padding: 0px;
-    
-     
+     padding: 0px;   
 }
 
 body {
@@ -16,9 +14,7 @@ body {
 }
 
 header 
-{
-   
-   
+  {
     padding: 0 1rem;
     position: relative;
     z-index: 99;
@@ -34,9 +30,6 @@ header
 header:has(#nav-toggle:checked) {
         margin-bottom: 200px;
 }
-
-
-
 
 #main {
     display: flex;
@@ -59,7 +52,6 @@ header:has(#nav-toggle:checked) {
     gap: 20px;
    align-items: baseline;
    padding: 10px  10px;
-
 }
 
 .img {
@@ -67,15 +59,12 @@ header:has(#nav-toggle:checked) {
     height: 250px;
     object-fit: cover;
     border-radius: 20px;
-   
 }
 
 
 .top {
-  
     padding: 0 2rem 10px;
     margin-top: 10px;
-
 }
 .top h3 {
     text-align: center;
@@ -86,9 +75,7 @@ header:has(#nav-toggle:checked) {
     justify-content: center;
     gap: 15px;
     padding: 0 2rem;
-    flex-wrap: wrap;
-    
-    
+    flex-wrap: wrap;   
 }
 .container div {
     max-width: 320px;
@@ -96,7 +83,6 @@ header:has(#nav-toggle:checked) {
 .tin {
    
    text-align: center;
-    /* padding-bottom: 20px; */
     padding: 0 1rem 10px;
 }
 h3 {
@@ -117,15 +103,13 @@ h3 {
     font-family: 'roboto', sans-serif;
     letter-spacing: 2px;
     font-size: 110%;
-  
 }
 
 
 h2,  p  {
     color: dimgray;
     font-family: 'roboto' , sans-serif;
-    margin-bottom: 16px;
-    
+    margin-bottom: 16px;  
 }
  
 p {
@@ -142,21 +126,17 @@ nav {
     width: 100%;
     left: 0;
     padding:  0 1rem;
-    /* box-shadow: 0 2px 2px dimgray; */
     display: none;
     top: 100%;
     background: white;
-
 }
 
 #nav-toggle:checked~nav {
     display: block;
-
 } 
 
 #nav-toggle {
     display: none;
-
 }
 .nav-toggle-label{
     font-size: 2rem;
@@ -167,9 +147,7 @@ nav {
 .logo {
     width: 150px;
     height: 100px;
-    padding-top: 10px;
-   
-   
+    padding-top: 10px;   
 }
 
     
@@ -192,16 +170,14 @@ nav {
         justify-content: center;
         padding: 0 2rem 20px;
         color: dimgray;
-      
         margin: 1rem auto;
     }
+
          input, textarea {
                padding: 10px ;
                border: solid #D9D9D6;
                border-radius: 4px;
-               margin: 5px;
-
-              
+               margin: 5px;    
         }
 
         button {
@@ -276,10 +252,7 @@ nav {
                         justify-content: space-evenly;
                     
                     }
-                   
-                  
-                  
-                
+                            
     }
  /* media query for devices larger (992px and above) */
     @media screen and (min-width:992px) {
