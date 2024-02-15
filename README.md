@@ -2,7 +2,7 @@
 This is a static website created for athletes looking for branding and management.
 The website is responsive on all devices as visually illustrated below.
 
-![css-html-project](https://allano256.github.io/css-html-project/assets/images/responsive.png)
+![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/responsive.png)
 
 
 # Target audience
@@ -14,19 +14,19 @@ This website is dedicated to new and experienced athletes that are intrested in 
 ## Design
 1. Our Project has three sections, the first part showing  the navigation and foreword.
 
-![css-html-project](https://allano256.github.io/css-html-project/assets/images/top.png)
+![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/top.png)
 
 2. Our second section has the services offered and our team.
 
-![css-html-project](https://allano256.github.io/css-html-project/assets/images/middle.png)
+![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/middle.png)
 
 3. The third part having the contact form and the social media icons.
 
-![css-html-project](https://allano256.github.io/css-html-project/assets/images/bottom.png)
+![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/bottom.png)
 
 4. We used a simple Logo to enable our website to standout.
 
-![css-html-project](https://allano256.github.io/css-html-project/assets/images/logo.png)
+![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/logo.png)
 
 
 ## Colors used
@@ -74,7 +74,7 @@ Most of ma challenges,i googled alot but also sought help from a friend  an extr
 
  W3C was used to validate the project for any errors.
 
-![css-html-project](https://allano256.github.io/css-html-project/assets/images/validation.png)
+![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/validation.png)
 
 
 ## Author
