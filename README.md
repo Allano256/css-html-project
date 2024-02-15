@@ -58,6 +58,10 @@ Most of ma challenges,i googled alot but also sought help from a friend  an extr
 
 2. Used git and github features aswell.
 
+## Media
+
+We got all our images from pexel.
+
 ## Deployment
 1. Log into your account in github
 
