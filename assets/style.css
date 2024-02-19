@@ -50,7 +50,7 @@ header:has(#nav-toggle:checked) {
    justify-content: center;
     flex-direction: column;
     gap: 20px;
-   align-items: baseline;
+   align-items: center;
    padding: 10px  10px;
 }
 
