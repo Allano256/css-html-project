@@ -2,7 +2,7 @@
 This is a static website created for athletes looking for branding and management.
 The website is responsive on all devices as visually illustrated below.
 
-![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/responsive.png)
+![css-html-project](assets/images/responsive.png)
 
 
 # Target audience
@@ -78,7 +78,7 @@ We got all our images from pexel.
 
  W3C was used to validate the project for any errors.
 
-![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/validation.png)
+![css-html-project](assets/images/validation.png)
 
 
 ## Author
