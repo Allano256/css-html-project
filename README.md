@@ -14,15 +14,15 @@ This website is dedicated to new and experienced athletes that are intrested in 
 ## Design
 1. Our Project has three sections, the first part showing  the navigation and foreword.
 
-![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/top.png)
+![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/alexa.png)
 
 2. Our second section has the services offered and our team.
 
-![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/middle.png)
+![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/alexa2.png)
 
 3. The third part having the contact form and the social media icons.
 
-![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/bottom.png)
+![css-html-project](https://allano256.github.io/top-talent.agency/assets/images/alexa3.png)
 
 4. We used a simple Logo to enable our website to standout.
 
