@@ -78,7 +78,7 @@ We got all our images from pexel.
 
  W3C was used to validate the project for any errors.
 
-![css-html-project](assets/images/validation.png)
+![css-html-project](assets/images/html%20validator.png)
 
 
 ## Author
