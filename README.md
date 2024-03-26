@@ -14,7 +14,7 @@ This website is dedicated to new and experienced athletes that are intrested in 
 ## Design
 1. Our Project has three sections, the first part showing  the navigation and foreword.
 
-![css-html-project](assets/images/alexa.png)
+![css-html-project](assets/images/Alexa-new.png)
 
 2. Our second section has the services offered and our team.
 
