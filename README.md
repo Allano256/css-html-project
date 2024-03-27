@@ -11,7 +11,7 @@ This website is dedicated to new and experienced athletes that are intrested in 
 
 
 
-git ## Design
+ ## Design
 1. Our Project has three sections, the first part showing  the navigation and foreword from the CEO giving a brief overview of the agency.
 
 ![css-html-project](assets/images/Alexa-new.png)
@@ -27,6 +27,10 @@ git ## Design
 4. We used a simple Logo to enable our website to standout.This helps to clearly give an image to the agency an standout.
 
 ![css-html-project](assets/images/logo.png)
+
+5.The footer at the bottom highlights the social medias of the agency that can be accessed by clients.
+
+![css-html-project](assets/images/footer.png)
 
 
 ## Colors used
