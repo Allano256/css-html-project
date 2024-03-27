@@ -93,7 +93,7 @@ The live link can be found here;
 
 ## Credit
 Images used during this project were sourced from
- [pexels!]
+ ![css-html-project](fontawesome.com)
  
 
 
