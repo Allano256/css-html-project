@@ -93,13 +93,10 @@ The live link can be found here;
 
 ## Credit
 Images used during this project were sourced from
- ![ReadMe](fontawesome.com)
+[readme](https://fontawesome.com)
  
-
-
-
 The icons used in the footer section were sourced from 
-![css-html-project](https://fontawesome.com/)
+[readme](https://pexels.com/sv-se/)
 
 
 ## Author
