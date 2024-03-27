@@ -68,22 +68,35 @@ Most of ma challenges,i googled alot but also sought help from a friend  an extr
 We got all our images from pexel.
 
 ## Deployment
+The project was deployed on the GitHub hosting platform and below are the steps taken to achieve the feat.
+
 1. Log into your account in github
 
 2. Go to the repository of css-html-project
 
 3. Click on the code button,and copy your preffered clone link.
 
-4. Oppen the terminal in your code editor and change the current working directory to    the location you wat to use for the cloned directory.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 
 5. Use git clone into the terminal, paste the link you copied in step 3 and press enter.
 
 
-## Running Tests and validation
+## Running Tests and validation and live link.
 
- W3C was used to validate the project for any errors.
+ W3C was used to validate the project for any errors. The project did not have any errors an was successful.
 
 ![css-html-project](assets/images/html%20validator.png)
+
+The live link can be found here;
+
+![css-html-project](https://allano256.github.io/top-talent/)
+
+## Credit
+Images used during this project were sourced from
+ ![css-html-project](https://www.pexels.com/sv-se/)
+
+The icons used in the footer section were sourced from 
+![css-html-project](https://fontawesome.com/)
 
 
 ## Author
