@@ -16,7 +16,7 @@ This website is dedicated to new and experienced athletes that are intrested in 
 
 ![css-html-project](assets/images/Alexa-new.png)
 
-2. Our second section has the services offered and our team. With images of the personnel behind the services an brief information about them.
+2. Our second section has the services offered and our team. With images of the personnel behind the services and brief information about them.
 
 ![css-html-project](assets/images/alexa2.png)
 
@@ -24,11 +24,11 @@ This website is dedicated to new and experienced athletes that are intrested in 
 
 ![css-html-project](assets/images/alexa3.png)
 
-4. We used a simple Logo to enable our website to standout.This helps to clearly give an image to the agency an standout.
+4. We used a simple Logo to enable our website to standout.This helps to clearly give an image to the agency and standout.
 
 ![css-html-project](assets/images/logo.png)
 
-5.The footer at the bottom highlights the social medias of the agency that can be accessed by clients.
+5.The footer at the bottom highlights the social medias of the agency that can be accessed by clients, if the user opts for social media they can reach the agency from these links.
 
 ![css-html-project](assets/images/footer.png)
 
