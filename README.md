@@ -45,7 +45,7 @@ We maintained a simple white background color and grey for the wordings. (#fffff
 
 I had issues with my positioning because some divs were not closing and therefore i had issues,i used devtools to see which divs were not closing and fixed the issue promptly.
 
-#### 1.Early deployment.
+#### Early deployment.
 It was important for me to do early deployment as i was able to see the output,shared the link with other friends to test on their devices and was able to solve the issue. My file paths were wrong so i had to edit them out.
 
 
