@@ -89,14 +89,14 @@ The project was deployed on the GitHub hosting platform and below are the steps 
 
 The live link can be found here;
 
-![css-html-project](https://allano256.github.io/top-talent/)
+[top-talent](https://allano256.github.io/top-talent/)
 
 ## Credit
 Images used during this project were sourced from
-[readme](https://fontawesome.com)
+[pexels](https://fontawesome.com)
  
 The icons used in the footer section were sourced from 
-[readme](https://pexels.com/sv-se/)
+[font awesome](https://pexels.com/sv-se/)
 
 
 ## Author
