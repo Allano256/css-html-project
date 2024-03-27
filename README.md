@@ -93,7 +93,10 @@ The live link can be found here;
 
 ## Credit
 Images used during this project were sourced from
- ![css-html-project](https://www.pexels.com/sv-se/)
+ [pexels!]
+ 
+
+
 
 The icons used in the footer section were sourced from 
 ![css-html-project](https://fontawesome.com/)
