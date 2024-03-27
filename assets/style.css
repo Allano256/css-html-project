@@ -24,8 +24,9 @@ header
     justify-content: space-between;
     align-items: baseline; 
     align-items: center;
-   
-    
+    position: fixed;
+    background-color: white;
+     
 }
 header:has(#nav-toggle:checked) {
         margin-bottom: 200px;
@@ -35,7 +36,7 @@ header:has(#nav-toggle:checked) {
     display: flex;
     flex-direction: column;
    justify-content: center;
-   margin-bottom: 30px;
+   margin-bottom: 40px;
 }
 
 #main img {
@@ -63,7 +64,7 @@ header:has(#nav-toggle:checked) {
 
 
 .top {
-    padding: 0 2rem 10px;
+    padding: 0 2rem ;
     margin-top: 10px;
 }
 .top h3 {
@@ -115,6 +116,16 @@ h2,  p  {
  
 p {
     line-height: 2;
+}
+
+#special {
+    font-family: 'roboto', sans-serif;
+    letter-spacing: 2px;
+    color: dimgray;
+    font-size: 20px;
+    /* position: relative;
+    bottom: 5; */
+    
 }
 
 
@@ -270,6 +281,24 @@ nav {
             object-fit: contain; 
            border-radius: 20px;
         }
+
+        header {
+            position: fixed;
+            background-color: white;
+           
+        }
+        #main {
+        
+           margin: 200px;
+        }
+        #special {
+            font-family: 'roboto', sans-serif;
+            letter-spacing: 2px;
+            color: dimgray;
+            font-size: 30px;
+        }
+
+        
     }
    
     

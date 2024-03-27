@@ -11,20 +11,20 @@ This website is dedicated to new and experienced athletes that are intrested in 
 
 
 
-## Design
-1. Our Project has three sections, the first part showing  the navigation and foreword.
+git ## Design
+1. Our Project has three sections, the first part showing  the navigation and foreword from the CEO giving a brief overview of the agency.
 
 ![css-html-project](assets/images/Alexa-new.png)
 
-2. Our second section has the services offered and our team.
+2. Our second section has the services offered and our team. With images of the personnel behind the services an brief information about them.
 
 ![css-html-project](assets/images/alexa2.png)
 
-3. The third part having the contact form and the social media icons.
+3. The third part having the contact form and the social media icons. Here we have a contact form that a potential client can use to reachout to the agency.
 
 ![css-html-project](assets/images/alexa3.png)
 
-4. We used a simple Logo to enable our website to standout.
+4. We used a simple Logo to enable our website to standout.This helps to clearly give an image to the agency an standout.
 
 ![css-html-project](assets/images/logo.png)
 
@@ -32,7 +32,8 @@ This website is dedicated to new and experienced athletes that are intrested in 
 ## Colors used
 
 We maintained a simple white background color and grey for the wordings. (#ffffff and rgb(105, 105, 105))
-
+![css-html-project](assets/images/white.png)
+![css-html-project](assets/images/grey.png)
 
 ## Issues faced
 
