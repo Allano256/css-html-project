@@ -28,6 +28,7 @@ header {
 }
 header:has(#nav-toggle:checked) {
   margin-bottom: 200px;
+ 
 }
 
 #main {
@@ -73,6 +74,7 @@ header:has(#nav-toggle:checked) {
   gap: 15px;
   padding: 0 2rem;
   flex-wrap: wrap;
+  
 }
 .container div {
   max-width: 320px;
@@ -132,9 +134,23 @@ nav {
   top: 100%;
   background: white;
 }
+#contact{
+  background-color:  rgb(17, 24, 39);
+}
+#second {
+  background-color:  rgb(17, 24, 39);
+}
+
 
 #nav-toggle:checked ~ nav {
   display: block;
+}
+.fa-solid {
+  background-color: rgb(234, 179, 8);
+  width: 3rem;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
 }
 
 #nav-toggle {
@@ -160,9 +176,10 @@ nav {
 }
 
 .media i {
-  font-size: 160%;
+  font-size: 50px;
   padding: 5%;
-  color: grey;
+  color: dimgray;
+  
 }
 form {
   display: flex;
@@ -193,6 +210,7 @@ button {
   color: dimgray;
   font-family: "roboto", sans-serif;
   padding-bottom: 5px;
+  
 }
 
 /* media query for devices larger (768px and above) */

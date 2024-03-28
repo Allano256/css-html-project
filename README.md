@@ -12,7 +12,7 @@ This website is dedicated to new and experienced athletes that are intrested in 
 
 
  ## Design
-1. Our Project has three sections, the first part showing  the navigation and foreword from the CEO giving a brief overview of the agency.
+1. Our Project has five sections, the first part showing  the navigation and foreword from the CEO giving a brief overview of the agency.
 
 ![css-html-project](assets/images/Alexa-new.png)
 
@@ -93,10 +93,10 @@ The live link can be found here;
 
 ## Credit
 Images used during this project were sourced from
-[pexels](https://fontawesome.com)
+[pexels](https://pexels.com/sv-se/)
  
 The icons used in the footer section were sourced from 
-[font awesome](https://pexels.com/sv-se/)
+[font awesome](https://fontawesome.com)
 
 
 ## Author
