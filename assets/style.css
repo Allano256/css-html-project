@@ -80,6 +80,7 @@ header:has(#nav-toggle:checked) {
 .tin {
   text-align: center;
   padding: 0 1rem 10px;
+  color: gray;
 }
 h3 {
   font-size: 30px;
@@ -111,9 +112,7 @@ h2 {
   font-family: "roboto", sans-serif;
   margin-bottom: 16px;
 }
-h3 {
-  color: white;
-}
+
 
 p {
   line-height: 2;
@@ -144,6 +143,9 @@ nav {
 #second > h2,
 p {
   color: white;
+}
+h3 > p {
+  color: gray;
 }
 #third {
   padding: 20px;
@@ -227,6 +229,9 @@ button {
 
 #services {
   color: gray;
+}
+footer {
+  background-color: rgb(17, 24, 39);
 }
 /* media query for devices larger (768px and above) */
 @media screen and (min-width: 769px) {
