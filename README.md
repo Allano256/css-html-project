@@ -1,7 +1,7 @@
 # TOP TALENT AGENCY
 
 This is a static website created for athletes looking for branding and management.
-The website is responsive on all devices as visually illustrated below.
+The website is responsive on all devices as visually illustrated below. This site is created with the intention to attract potential top level athletes to partner with the agency in their career. The level of professionalism highlighted beneath.
 
 ![css-html-project](assets/images/responsive.png)
 
@@ -13,15 +13,17 @@ This website is dedicated to new and experienced athletes that are intrested in 
 
 1. Our Project has five sections, the first part showing the navigation and foreword from the CEO giving a brief overview of the agency.
 
-![css-html-project](assets/images/Alexa-new.png)
+![css-html-project](assets/)
 
 2. Our second section has the services offered and our team. With images of the personnel behind the services and brief information about them.
 
-![css-html-project](assets/images/alexa2.png)
+![css-html-project](assets/)
+
+![css-html-project](assets/)
 
 3. The third part having the contact form and the social media icons. Here we have a contact form that a potential client can use to reachout to the agency.
 
-![css-html-project](assets/images/alexa3.png)
+![css-html-project](assets/)
 
 4. We used a simple Logo to enable our website to standout.This helps to clearly give an image to the agency and standout.
 
@@ -29,7 +31,7 @@ This website is dedicated to new and experienced athletes that are intrested in 
 
 5.The footer at the bottom highlights the social medias of the agency that can be accessed by clients, if the user opts for social media they can reach the agency from these links.
 
-![css-html-project](assets/images/footer.png)
+![css-html-project](assets/)
 
 ## Colors used
 
