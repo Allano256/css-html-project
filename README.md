@@ -13,7 +13,7 @@ This website is dedicated to new and experienced athletes that are intrested in 
 
 1. Our Project has five sections, the first part showing the navigation and foreword from the CEO giving a brief overview of the agency.
 
-![css-html-project](assets/images/Alexa-new.png)
+![css-html-project](assets/images/ceo.png)
 
 2. Our second section has the services offered and our team. With images of the personnel behind the services and brief information about them.
 
