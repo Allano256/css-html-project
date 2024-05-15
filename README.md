@@ -23,7 +23,7 @@ This website is dedicated to new and experienced athletes that are intrested in 
 
 3. The third part having the contact form and the social media icons. Here we have a contact form that a potential client can use to reachout to the agency.
 
-![css-html-project](assets/images/contact.png)
+![css-html-project](assets/images/contact1.png)
 
 4. We used a simple Logo to enable our website to standout.This helps to clearly give an image to the agency and standout.
 
