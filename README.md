@@ -17,13 +17,13 @@ This website is dedicated to new and experienced athletes that are intrested in 
 
 2. Our second section has the services offered and our team. With images of the personnel behind the services and brief information about them.
 
-![css-html-project](assets/)
+![css-html-project](assets/images/services.png)
 
-![css-html-project](assets/)
+![css-html-project](assets/images/team.png)
 
 3. The third part having the contact form and the social media icons. Here we have a contact form that a potential client can use to reachout to the agency.
 
-![css-html-project](assets/)
+![css-html-project](assets/images/contact.png)
 
 4. We used a simple Logo to enable our website to standout.This helps to clearly give an image to the agency and standout.
 
@@ -31,7 +31,7 @@ This website is dedicated to new and experienced athletes that are intrested in 
 
 5.The footer at the bottom highlights the social medias of the agency that can be accessed by clients, if the user opts for social media they can reach the agency from these links.
 
-![css-html-project](assets/)
+![css-html-project](assets/images/socials.png)
 
 ## Colors used
 
