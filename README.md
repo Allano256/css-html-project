@@ -94,7 +94,7 @@ We performed this testing manually fillingout one field at a time and trying to 
 
 ![css-html-project](assets/images/form1.png)
 ![css-html-project](assets/images/form2.png)
-![css-html-project](assets/images/form2.png)
+![css-html-project](assets/images/form3.png)
 ![css-html-project](assets/images/form4.png)
 
 We also did manual testing on the social media icons, to ensure that if a user clicks on the icon, they are redirected to a new window and be able to access the site. This was tested on all the social media icons on the site, which was successful.
