@@ -87,6 +87,17 @@ W3C was used to validate the project for any errors. The project did not have an
 
 ![css-html-project](assets/images/valid.png)
 
+We tested the form as illustrated in the images below, testing each and every field to ensure that the form does not support a submission with a field that is empty.
+
+We performed this testing manually fillingout one field at a time and trying to submit the form to see if an error arises. As illustrated by the images below an error is shown incase a field is left empty on submission.
+
+![css-html-project](assets/images/form1.png)
+![css-html-project](assets/images/form2.png)
+![css-html-project](assets/images/form2.png)
+![css-html-project](assets/images/form4.png)
+
+We also did manual testing on the social media icons, to ensure that if a user clicks on the icon, they are redirected to a new window and be able to access the site. This was tested on all the social media icons on the site, which was successful.
+
 The live link can be found here;
 
 [top-talent](https://allano256.github.io/top-talent/)
