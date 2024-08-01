@@ -84,6 +84,7 @@ The project was deployed on the GitHub hosting platform and below are the steps 
 ## Running Tests and validation and live link.
 
 W3C was used to validate the project for any errors. The project did not have any errors and was successful.
+We manually copied all the code from the IDE and pasted it into the W3C validator and the image below highlights the successfull testing of our code.
 
 ![css-html-project](assets/images/valid.png)
 
