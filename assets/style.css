@@ -18,7 +18,7 @@ header {
   position: relative;
   z-index: 99;
   width: 100%;
-  
+
   display: flex;
   justify-content: space-between;
   align-items: baseline;
@@ -112,7 +112,6 @@ h2 {
   font-family: "roboto", sans-serif;
   margin-bottom: 16px;
 }
-
 
 p {
   line-height: 2;
@@ -228,6 +227,18 @@ button {
 }
 
 #services {
+  color: gray;
+}
+#service {
+  color: gray;
+}
+#team {
+  color: gray;
+}
+#social-social {
+  color: gray;
+}
+#head {
   color: gray;
 }
 footer {
